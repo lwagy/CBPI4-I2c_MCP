@@ -1,0 +1,2 @@
+include MCP23XXX/config.yaml
+recursive-include MCP23XXX/static *
